@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "format": "cc-multipart-dfpwm",
+  "songId": "again_fetty_wap",
+  "title": "Again",
+  "artist": "Fetty Wap",
+  "rate": 48000,
+  "duration": 312.3548333333333,
+  "totalBytes": 1874129,
+  "partCount": 3,
+  "partSize": 900000,
+  "parts": [
+    "again_fetty_wap_part01of03.dfpwm",
+    "again_fetty_wap_part02of03.dfpwm",
+    "again_fetty_wap_part03of03.dfpwm"
+  ],
+  "cleanMode": true
+}
