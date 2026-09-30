@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "format": "cc-multipart-dfpwm",
+  "songId": "loser_tame_impala",
+  "title": "Loser",
+  "artist": "Tame Impala",
+  "rate": 48000,
+  "duration": 267.661,
+  "totalBytes": 1605966,
+  "partCount": 2,
+  "partSize": 900000,
+  "parts": [
+    "loser_tame_impala_part01of02.dfpwm",
+    "loser_tame_impala_part02of02.dfpwm"
+  ],
+  "cleanMode": true
+}
