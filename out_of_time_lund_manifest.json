@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "format": "cc-multipart-dfpwm",
+  "songId": "out_of_time_lund",
+  "title": "Out Of Time",
+  "artist": "Lund",
+  "rate": 48000,
+  "duration": 193.85333333333332,
+  "totalBytes": 1163120,
+  "partCount": 2,
+  "partSize": 900000,
+  "parts": [
+    "out_of_time_lund_part01of02.dfpwm",
+    "out_of_time_lund_part02of02.dfpwm"
+  ],
+  "cleanMode": true
+}
